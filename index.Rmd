@@ -21,7 +21,7 @@ data("penguins")
 
 
 
-Plots
+Plots {data-navmenu="Pages"}
 =======================================================================
 
 Sidebar {.sidebar}
@@ -83,7 +83,7 @@ penguins %>% ggplot(aes(x = flipper_length_mm, fill = species))+
   facet_wrap(~species)
 ```
 
-Data
+Data {data-navmenu="Pages"}
 ================================================================================
 
 ```{r}
