@@ -27,7 +27,7 @@ Plots
 Sidebar {.sidebar}
 -----------------------------------------------------------------------
 
-### Penguin Stats
+### Penguin Stats Update
 
 The total number of penguins in the data set is `r nrow(penguins)`
 
